@@ -1,0 +1,9 @@
+postgres:
+  DB_HOST: 'localhost'
+  DB_PORT: 5432
+  DB_NAME: 'admin'
+  DB_USER: 'admin'
+  DB_PASS: 'admin'
+
+map_api:
+  URL: 'https://geocode.maps.co/search'
